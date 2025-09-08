@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de desafios técnicos\!. Cada desafio foi tratado 
 
 O objetivo deste desafio foi projetar um banco de dados relacional a partir de um conjunto de requisitos de negócio. A solução inclui a criação de um Modelo Entidade-Relacionamento (MER) completo e a proposta de uma estratégia de indexação para otimizar consultas específicas, como a busca por dados históricos, snapshots em um ponto no tempo e o estado atual de um registro.
 
-➡️ **[Clique aqui para ver o README detalhado do Desafio de Banco de Dados](https://www.google.com/search?q=./pasta-do-desafio-db/README.md)**
+➡️ **[Clique aqui para ver o README detalhado do Desafio de Banco de Dados](./database/Primeira%20Questão_%20Benchmarks%20por%20Account.pdf)**
 
 ### 2\. API REST de Usuários
 
@@ -16,6 +16,8 @@ Este desafio consistiu na construção de uma API RESTful completa para consulta
 
 
 ## Como Navegar no Repositório
+
+[Link do repositório](https://github.com/guilhermexL/valcann-test)
 
 Cada desafio está localizado em sua própria pasta. Dentro de cada uma, você encontrará:
 
